@@ -56,5 +56,5 @@ Interação
 Este é o link para utilização da aplicação em produção.
 
 ```bash
-https://countdown-tau-six.vercel.app/
+https://countdown-alura.vercel.app/
 ```
