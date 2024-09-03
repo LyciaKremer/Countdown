@@ -10,10 +10,10 @@ Este projeto é um desafio técnico proposto pela Alura, é uma aplicação web 
 
 ##  Estrutura do Projeto
 - index.html: Arquivo principal de HTML.
-- src/style.scss: Arquivo de estilo SASS.
-- src/script.js: Arquivo JavaScript para a lógica de contagem regressiva.
-- dist/style.css: Arquivo CSS compilado.
-- dist/: Diretório para arquivos compilados e prontos para produção.
+- src/css/style.scss: Arquivo de estilo SASS.
+- src/js/script.js: Arquivo JavaScript para a lógica de contagem regressiva.
+- src/css/style.css: Arquivo CSS compilado.
+- src/: Diretório para arquivos compilados e prontos para produção.
 
 ## Pré-requisitos
 - Navegador moderno (Chrome, Firefox, Edge, etc.)
@@ -56,5 +56,5 @@ Interação
 Este é o link para utilização da aplicação em produção.
 
 ```bash
-  
+https://countdown-tau-six.vercel.app/
 ```
