@@ -56,5 +56,5 @@ Interação
 Este é o link para utilização da aplicação em produção.
 
 ```bash
-https://countdown-alura.vercel.app/
+https://countdown-lycia.vercel.app/
 ```
